@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="hint_city">City(I.e. Charlotte)</string>
+    <string name="hint_state">State(i.e. NC)</string>
+    <string name="label_submit">Submit</string>
+    <string name="added" > Added to the Favourites List</string>
+    <string name="updated" > Updated the Favourites List</string>
+    <string name="deleted" > Deleted from the Favourites List</string>
+    <string name="invalid" > Invalid input</string>
+
+</resources>
